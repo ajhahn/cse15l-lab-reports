@@ -8,7 +8,7 @@ This is Andrew's Website!
 
 ## Heading 2 
 
-[My First Website](https://github.com/ajhahn/cse15l-lab-reports/edit/main/index.md)
+[My First Website](https://ajhahn.github.io/cse15l-lab-reports/index.html)
 
 [My Test Website](https://ajhahn.github.io/cse15l-lab-reports/test.html)
 
