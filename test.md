@@ -1,30 +1,28 @@
 <p align="center">
-# *Welcome to my website!* 
 </p>
 
-**Bold**
+# *Welcome to my website!*
 
 [My First Website](https://ajhahn.github.io/cse15l-lab-reports/index.html)
-
 [My Test Website](https://ajhahn.github.io/cse15l-lab-reports/test.html)
 
+ ---
 ## Spongebob is always watching
 ![Image](https://www.looper.com/img/gallery/the-spongebob-squarepants-details-that-are-darker-than-you-think/l-intro-1633882133.jpg)
+---
 
 >This
 >is
 >a
 >blockquote.
 
-* 1
-* 2
-* 3
+* Jellyfish catching with Patrick
+* Have fun with Squidward
+* Play with Gary
 
-1. One
-2. Two
-3. Three
-
----
+1. Patrick
+2. Spatula
+3. Gary
 
 `Inline Code` with backticks
 
