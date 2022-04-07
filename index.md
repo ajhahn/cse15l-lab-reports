@@ -29,8 +29,8 @@ This is Andrew's Website!
 
 ---
 
-'System.out.println("Spongebob is happy");'
+`Inline Code` with backticks
 
-'''
+```
 Code Block
-'''
+```
