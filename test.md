@@ -1,8 +1,8 @@
 <p align="center">
 </p>
 
-**CSE 15L Spring 2022 Announcement**
+__CSE 15L Spring 2022 Announcement__
 
 We will be using [Autograder](https://autograder.ucsd.edu) as the student queue during TA/tutor office hours.
 
-Have a *nice* week!
+Have a _nice_ week!
