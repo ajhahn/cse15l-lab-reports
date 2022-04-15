@@ -40,4 +40,6 @@ cs15lsp22zz@ieng6.ucsd.edu:~/.ssh/authorized_keys`
 Afterwards, I no longer needed to use a password.
 
 ## *6. Optimized Remote Running*
+![Image7](image28.png)
+
 When writing commands ot make local edits to then move to the remote server, there are some coding shortcuts that make things faster. For example, using `$ ssh cs15lsp22zz@ieng6.ucsd.edu "<commands>"` will log into the remote server and simultaneously run the command.
