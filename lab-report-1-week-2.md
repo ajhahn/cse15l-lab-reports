@@ -2,7 +2,7 @@
 
 ## *1. Installing VS Code*
 ![Image1](image7.png)
-To get Visual Studio Code, I went to [VS Code Download](https://code.visualstudio.com/), and downloaded it for windows. Once installed, the page looked like the picture above.
+To get Visual Studio Code, I went to [VS Code](https://code.visualstudio.com/), and downloaded it for windows. Once installed, the page looked like the picture above.
 
 ## *2. Remotely Connecing*
 ![Image2](image26.png)
