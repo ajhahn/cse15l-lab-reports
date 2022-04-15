@@ -2,13 +2,13 @@
 
 ## *1. Installing VS Code*
 ![Image1](image7.png)
-To get Visual Studio Code, I went to https://code.visualstudio.com/, and downloaded it for windows. Once installed, the page looked like the picture above.
+To get Visual Studio Code, I went to [VS Code Download](https://code.visualstudio.com/), and downloaded it for windows. Once installed, the page looked like the picture above.
 
 ## *2. Remotely Connecing*
 ![Image2](image26.png)
 As a windows user, I had to install OpenSSH.
 
-Afterwards, in VSCode, I typed in `$ ssh cs15lsp22zz@ieng6.ucsd.edu` while replacing the `zz`'s with my own specific code. I found my own code on https://sdacs.ucsd.edu/~icc/index.php.
+Afterwards, in VSCode, I typed in `$ ssh cs15lsp22zz@ieng6.ucsd.edu` while replacing the `zz`'s with my own specific code. I found my own code on [Account lookup](https://sdacs.ucsd.edu/~icc/index.php).
 
 After I said yes to the question, I typed my password and was logged in.
 
