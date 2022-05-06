@@ -16,6 +16,6 @@ Using `ssh ieng6`, I can log in much faster.
 Using `scp WhereAmI.java ieng6`, I can copy the file to my remote account.
 
 ## *2. Setup Github Access from ieng6*
-hi
+test for 
 
 ## *3. Copy whole directories with `scp -r`*
