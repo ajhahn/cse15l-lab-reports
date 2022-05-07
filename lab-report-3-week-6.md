@@ -32,3 +32,16 @@ These are where my private and public keys are stored on my user account.
 Now I am able to commit and push changes from my ieng6 account and if you click this [Link](https://github.com/ajhahn/cse15l-lab-reports/commit/a5f987d7a38ec5110556f3174d9cfae960af9c50), you can see the changes for the resulting commit.
 
 ## *3. Copy whole directories with `scp -r`*
+
+![Image10](copy1.png)
+![Image11](copy2.png)
+
+Copying whole markdown-parse directory.
+
+![Image12](copy3.png)
+
+Logging in and compiling on my user account.
+
+![Image13](copy4.png)
+
+Running it all in one command.
