@@ -16,7 +16,7 @@ For Test-File 194, I believe that neither implementation is correct. These are t
 
 ![TestFile194NotMine](test-file-194-not-mine.png)
 
-The correct output would just be an empty list because there should be no links. For cse15l22sp-markdown-parser's implementation, I think the error is that it just sees that url is inside a pair of parenthesis so it counts it as a link. It doesn't check if there are brackets prior to the parenthesis. In the code, this is where it would need to be fixed.
+The correct output would just be an empty list because there should be no links. For cse15l22sp-markdown-parser's implementation, I think the error is that it just sees that url is inside a pair of parenthesis so it counts it as a link. It doesn't check if there are brackets prior to the parenthesis. In the code, this is where it would need to be fixed. I feel like this problem is not small enough to pinpoint a certain highlighted area that specifically could solve this problem.
 
 ![TestFileFix](placetofix.png)
 
@@ -28,7 +28,7 @@ For Test-File 342, I believe that my implementation is correct while cse15l22sp-
 
 ![TestFile342NotMine](test-file-342-not-mine.png)
 
-The correct output would just be an empty list because there should be no links. For cse15l22sp-markdown-parser's implementation, I think the error is that it still sees that /foo is inside a pair of parenthesis so it counts it as a link. Without checking for any other cases, all it looks for are words inside of a pair of parenthesis.
+The correct output would just be an empty list because there should be no links. For cse15l22sp-markdown-parser's implementation, I think the error is that it still sees that /foo is inside a pair of parenthesis so it counts it as a link. Without checking for any other cases, all it looks for are words inside of a pair of parenthesis. In the code, this is where it would need to be fixed. I feel like this problem is not small enough to pinpoint a certain highlighted area that specifically could solve this problem.
 
 ![TestFileFix](placetofix.png)
 
